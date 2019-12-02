@@ -1,0 +1,22 @@
+.basdepage{
+	padding: 50px;
+	width : 400px;
+	margin:  10px auto;
+	border-radius: 5px;
+	text-align:center;
+	font color: #313131;
+
+}
+
+
+.followme{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 50px;
+	text-decoration: none;
+	font-weight : bold;
+}
+
+.followme:hover {
+	color: #313131;
+}

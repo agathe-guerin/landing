@@ -1,0 +1,32 @@
+.cards{
+	border-radius: 6px;
+    padding: 50px;
+    align-items: center;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.2);	
+    margin: 20px 20px;
+    background-color: rgb(249, 246, 246);
+
+}
+
+.cards img{
+    width: 220px;
+    height: 150px;
+    border-radius: 20px; 
+
+}
+
+.cards p{
+    flex-grow: 1;
+    font-size: 18px;
+    color: #484848;
+}
+
+.cards h3{
+	flex-grow: 1;
+    font-size: 24px;
+    color: #323232;
+}
+
+a:hover {
+    color: #313131;
+}
